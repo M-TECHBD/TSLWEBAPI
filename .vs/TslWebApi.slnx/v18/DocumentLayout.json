@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\TSLBD\\TslWebApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E7E6E67F-16C6-BE50-9305-2D0EA3E02D60}|TslWebApi\\TslWebApi.csproj|e:\\tslbd\\tslwebapi\\tslwebapi\\models\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7E6E67F-16C6-BE50-9305-2D0EA3E02D60}|TslWebApi\\TslWebApi.csproj|solutionrelative:tslwebapi\\models\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7E6E67F-16C6-BE50-9305-2D0EA3E02D60}|TslWebApi\\TslWebApi.csproj|e:\\tslbd\\tslwebapi\\tslwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E7E6E67F-16C6-BE50-9305-2D0EA3E02D60}|TslWebApi\\TslWebApi.csproj|solutionrelative:tslwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7E6E67F-16C6-BE50-9305-2D0EA3E02D60}|TslWebApi\\TslWebApi.csproj|e:\\tslbd\\tslwebapi\\tslwebapi\\controllers\\inventorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7E6E67F-16C6-BE50-9305-2D0EA3E02D60}|TslWebApi\\TslWebApi.csproj|solutionrelative:tslwebapi\\controllers\\inventorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7E6E67F-16C6-BE50-9305-2D0EA3E02D60}|TslWebApi\\TslWebApi.csproj|e:\\tslbd\\tslwebapi\\tslwebapi\\controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7E6E67F-16C6-BE50-9305-2D0EA3E02D60}|TslWebApi\\TslWebApi.csproj|solutionrelative:tslwebapi\\controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7E6E67F-16C6-BE50-9305-2D0EA3E02D60}|TslWebApi\\TslWebApi.csproj|e:\\tslbd\\tslwebapi\\tslwebapi\\controllers\\devicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7E6E67F-16C6-BE50-9305-2D0EA3E02D60}|TslWebApi\\TslWebApi.csproj|solutionrelative:tslwebapi\\controllers\\devicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7E6E67F-16C6-BE50-9305-2D0EA3E02D60}|TslWebApi\\TslWebApi.csproj|e:\\tslbd\\tslwebapi\\tslwebapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7E6E67F-16C6-BE50-9305-2D0EA3E02D60}|TslWebApi\\TslWebApi.csproj|solutionrelative:tslwebapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7E6E67F-16C6-BE50-9305-2D0EA3E02D60}|TslWebApi\\TslWebApi.csproj|e:\\tslbd\\tslwebapi\\tslwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7E6E67F-16C6-BE50-9305-2D0EA3E02D60}|TslWebApi\\TslWebApi.csproj|solutionrelative:tslwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7E6E67F-16C6-BE50-9305-2D0EA3E02D60}|TslWebApi\\TslWebApi.csproj|e:\\tslbd\\tslwebapi\\tslwebapi\\controllers\\reportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7E6E67F-16C6-BE50-9305-2D0EA3E02D60}|TslWebApi\\TslWebApi.csproj|solutionrelative:tslwebapi\\controllers\\reportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Test.cs",
+              "DocumentMoniker": "E:\\TSLBD\\TslWebApi\\TslWebApi\\Models\\Test.cs",
+              "RelativeDocumentMoniker": "TslWebApi\\Models\\Test.cs",
+              "ToolTip": "E:\\TSLBD\\TslWebApi\\TslWebApi\\Models\\Test.cs",
+              "RelativeToolTip": "TslWebApi\\Models\\Test.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T06:02:20.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\TSLBD\\TslWebApi\\TslWebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "TslWebApi\\appsettings.json",
+              "ToolTip": "E:\\TSLBD\\TslWebApi\\TslWebApi\\appsettings.json",
+              "RelativeToolTip": "TslWebApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-02T06:00:17.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ReportController.cs",
+              "DocumentMoniker": "E:\\TSLBD\\TslWebApi\\TslWebApi\\Controllers\\ReportController.cs",
+              "RelativeDocumentMoniker": "TslWebApi\\Controllers\\ReportController.cs",
+              "ToolTip": "E:\\TSLBD\\TslWebApi\\TslWebApi\\Controllers\\ReportController.cs",
+              "RelativeToolTip": "TslWebApi\\Controllers\\ReportController.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAADwv0QAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T05:20:04.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TransactionController.cs",
+              "DocumentMoniker": "E:\\TSLBD\\TslWebApi\\TslWebApi\\Controllers\\TransactionController.cs",
+              "RelativeDocumentMoniker": "TslWebApi\\Controllers\\TransactionController.cs",
+              "ToolTip": "E:\\TSLBD\\TslWebApi\\TslWebApi\\Controllers\\TransactionController.cs",
+              "RelativeToolTip": "TslWebApi\\Controllers\\TransactionController.cs",
+              "ViewState": "AgIAAFIBAAAAAAAAAAAuwFwBAAB6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T05:09:12.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InventoryController.cs",
+              "DocumentMoniker": "E:\\TSLBD\\TslWebApi\\TslWebApi\\Controllers\\InventoryController.cs",
+              "RelativeDocumentMoniker": "TslWebApi\\Controllers\\InventoryController.cs",
+              "ToolTip": "E:\\TSLBD\\TslWebApi\\TslWebApi\\Controllers\\InventoryController.cs",
+              "RelativeToolTip": "TslWebApi\\Controllers\\InventoryController.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T04:55:37.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DeviceController.cs",
+              "DocumentMoniker": "E:\\TSLBD\\TslWebApi\\TslWebApi\\Controllers\\DeviceController.cs",
+              "RelativeDocumentMoniker": "TslWebApi\\Controllers\\DeviceController.cs",
+              "ToolTip": "E:\\TSLBD\\TslWebApi\\TslWebApi\\Controllers\\DeviceController.cs",
+              "RelativeToolTip": "TslWebApi\\Controllers\\DeviceController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJMBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T09:06:54.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "E:\\TSLBD\\TslWebApi\\TslWebApi\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "TslWebApi\\Controllers\\UserController.cs",
+              "ToolTip": "E:\\TSLBD\\TslWebApi\\TslWebApi\\Controllers\\UserController.cs",
+              "RelativeToolTip": "TslWebApi\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAOkAAAAAAAAAAAAUwAoBAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T08:45:24.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\TSLBD\\TslWebApi\\TslWebApi\\Program.cs",
+              "RelativeDocumentMoniker": "TslWebApi\\Program.cs",
+              "ToolTip": "E:\\TSLBD\\TslWebApi\\TslWebApi\\Program.cs",
+              "RelativeToolTip": "TslWebApi\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAvwBUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T08:34:02.82Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
